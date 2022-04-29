@@ -1,6 +1,4 @@
-- 👋 Hi, I’m @LeonChris327
-- 👀 I’m interested in Javascript
-- 🌱 I’m currently learning Javascript
+
 
 
 
